@@ -9,4 +9,13 @@
 7.	对一副二值图像进行膨胀、腐蚀、开、闭操作
 8.	对一副图像进行二值化，ostu算法等
 
-代码较乱，有些没有写完。且看且珍惜
+部分结果截图
+<h3>加噪声</h3>
+<p align='center'>
+<img src='Images/微信截图_20200429151936.png' title='images' style='max-width:600px'></img>
+</p>
+<h3>去噪声</h3>
+<p align='center'>
+<img src='Images/微信截图_20200429152000.png' title='images' style='max-width:600px'></img>
+</p>
+
